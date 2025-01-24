@@ -1,0 +1,8 @@
+{
+    "monitor_interval": 60,
+    "cpu_threshold": 85,
+    "memory_threshold": 90,
+    "disk_threshold": 85,
+    "healing_enabled": true,
+    "log_level": "INFO"
+}
